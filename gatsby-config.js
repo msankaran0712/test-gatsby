@@ -3,6 +3,7 @@ module.exports = {
     title: 'Gatsby Ant-Design Documentation Starter',
   },
   plugins: [
+    `gatsby-plugin-sass`,
     `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,
     {
